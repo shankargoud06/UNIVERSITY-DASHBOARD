@@ -67,6 +67,3 @@ st.markdown("- **Student Satisfaction**: A key indicator of the university's aca
 st.markdown("- **Department Enrollment Trends**: Helps in understanding which programs attract more students.")
 st.markdown("- **Spring vs. Fall Comparison**: Shows which term is more popular for admissions.")
 
-# Save the script as a .py file for GitHub
-with open("university_dashboard.py", "w") as f:
-    f.write("""" + open(__file__).read() + """")
