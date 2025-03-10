@@ -2,12 +2,16 @@
 
 1️⃣ Admissions Overview
 Total applications, admissions, and enrollments per term.
+
 2️⃣ Retention Rate Trends
 A year-over-year view of how many students continue their studies.
+
 3️⃣ Student Satisfaction Scores
 Visualizing how student happiness changes over time.
+
 4️⃣ Enrollment Trends by Department
 See which programs (Engineering, Business, Arts, Science) are growing or declining.
+
 5️⃣ Spring vs. Fall Enrollment Comparison
 Spot seasonal trends in student admissions.
 
