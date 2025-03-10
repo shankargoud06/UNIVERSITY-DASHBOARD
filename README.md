@@ -18,6 +18,9 @@ Spot seasonal trends in student admissions.
 📌 Summary
 
 ✔ Retention rates matter: A declining trend means universities need better student support.
+
 ✔ Happy students stay longer: Tracking student satisfaction helps improve university life.
+
 ✔ Some departments attract more students: Understanding enrollment patterns helps with academic planning.
+
 ✔ Spring vs. Fall admissions fluctuate: Knowing which term has more enrollments helps universities optimize their resources.
